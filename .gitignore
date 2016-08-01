@@ -1,0 +1,2 @@
+# node_modules can be re-created by running npm install
+node_modules/
